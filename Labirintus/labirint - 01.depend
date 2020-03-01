@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495475672 source:d:\class\makkai\2017-05-22-02 - labirint - 01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1583081641 source:d:\egyetem\harmadev\mesterseges intelligencia\mestersÉges intelligencia\projekt\labirintus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
